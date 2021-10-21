@@ -1,0 +1,5 @@
+D:\Git\PSSC\Spinean Diana\L02\Tema_1\obj\Debug\net5.0\Tema_1.csproj.AssemblyReference.cache
+D:\Git\PSSC\Spinean Diana\L02\Tema_1\obj\Debug\net5.0\Tema_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\PSSC\Spinean Diana\L02\Tema_1\obj\Debug\net5.0\Tema_1.AssemblyInfoInputs.cache
+D:\Git\PSSC\Spinean Diana\L02\Tema_1\obj\Debug\net5.0\Tema_1.AssemblyInfo.cs
+D:\Git\PSSC\Spinean Diana\L02\Tema_1\obj\Debug\net5.0\Tema_1.csproj.CoreCompileInputs.cache
